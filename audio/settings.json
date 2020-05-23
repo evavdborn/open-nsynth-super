@@ -1,9 +1,9 @@
 {
 	"pads": 	{
-		"NW": 		["brass","caridle", "crotales", "electroclav"],
-		"NE": 		["fatpoly", "flute", "softpad", "kick"],
-		"SW": 		["marimba", "electricpiano", "snare", "steeldrum"],
-		"SE": 		["synthbrass", "cleanbass", "uprightbass", "windfx"]
+		"NW": 		["canadianboards"],
+		"NE": 		["panpipes"],
+		"SW": 		["squarebass"],
+		"SE": 		["sweepsynth"]
 	},
 
 	"magenta_dir":	"~/magenta",
